@@ -1,1 +1,0 @@
-# Gossip-Simulator-F-AKKA.NET
